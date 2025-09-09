@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wrzoft
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning python, java, c#
-- 💞️ I’m looking to collaborate on c++
+- 🌱 I’m currently learning
 - 📫 How to reach me monsterteam0007@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
